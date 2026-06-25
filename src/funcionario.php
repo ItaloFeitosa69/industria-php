@@ -1,6 +1,7 @@
-<?php class funcionario {
-    private $Id;
-    private $name;
-    private $matricula;
+<?php
+
+class Funcionario {
+    private $nome;
+    private $salario;
+    private $cargo; 
 }
-?>
